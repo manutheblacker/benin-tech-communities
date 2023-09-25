@@ -1,21 +1,15 @@
 <script setup>
 useHead({
   htmlAttrs: {
-    lang: "en",
+    lang: "fr",
   },
   charset: "utf-8",
-  title: "Togo Tech Communities",
+  title: "Benin Tech Communities",
   meta: [
     {
       name: "description",
-      content: "Discover the Thriving Tech Communities shaping Togo's Future.",
-    },
-    {
-      property: "og:image",
-      content: "https://togo-tech-communities.netlify.app/social-card.png",
-    },
-    { name: "twitter:card", content: "summary_large_image" },
-    { name: "twitter:creator", content: "@shakiroye" },
+      content: "Découvrez les communautés Tech faconnant l'écosystème au Bénin ",
+    }
   ],
   link: [
     {
